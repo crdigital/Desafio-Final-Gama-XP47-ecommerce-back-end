@@ -53,7 +53,7 @@ funcionalidades, estão na ducumentação da api. Referenciado abaixo neste docu
 
 ## ***Teste automatizados***
 
-A parte de tetes automatizados está referenciada na branch 'testes' neste repositório.
+A parte de tetes automatizados está na branch 'testes' neste repositório.
 
 ## ***Link da documentação da api***
 

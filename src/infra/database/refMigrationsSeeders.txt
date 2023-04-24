@@ -1,0 +1,13 @@
+migrations
+
+Criar databases => npx sequelize db:create
+Criar tabela    => npx sequelize db:migrate
+para reverter   => npx sequelize db:migrate:undo ou undo:all para mais tabelas
+
+sedeers
+
+popular a tabela => npx sequelize db:seed:all
+para reverter    => npx sequelize db:seed:undo:all    
+
+No link abaixo ensina como criar a migration com foreign key
+https://sequelize.org/docs/v6/other-topics/migrations/#migration-skeleton

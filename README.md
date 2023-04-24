@@ -1,7 +1,7 @@
 # Desafio Final Gama XP47 - Ecommerce [ back-end ]
 ## ***Repositório referente ao desafio final da Gama xp 47 - Back-end ecommerce***
 
-## ***Tecnologias Utilizadas***
+## ***Requisitos do projeto***
 
 - node.js
 - Typescript

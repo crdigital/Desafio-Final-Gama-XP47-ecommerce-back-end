@@ -1,0 +1,6 @@
+/node_modules
+/dist
+.env
+helper.txt
+babel.config.js
+jest.config.ts

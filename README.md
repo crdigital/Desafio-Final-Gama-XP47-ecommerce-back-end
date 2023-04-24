@@ -1,15 +1,18 @@
 # Desafio Final Gama XP47 - Ecommerce [ back-end ]
 ## ***Repositório referente ao desafio final da Gama xp 47 - Back-end ecommerce***
 
+
 ## ***Requisitos do projeto***
 
 - node.js
 - Typescript
 - MySQL
 
+
 ## ***Arquitetura/Padrão do Projeto***
 
 - Solid/DDD
+
 
 ## ***Tratamento de Erros***
 
@@ -21,6 +24,7 @@ estrutura do servidor da aplicação, que é instanciado na pasta 'src' do proje
 ## ***Desempenho das requisições em conjunto com o banco de dados***
 
 - Este desempenho foi efetuado através das dependências 'sequelize' e 'sequelize-cli'
+
 
 ## ***Diagrama e estrutura do banco de dados***
 
@@ -47,8 +51,10 @@ Além de todos os requisitos para a construção dessa api, para ser consumida p
 para a criação de um crud para cupons de desconto, e também para a realização de listagem de produtos por categoria. Todos os endpoints com suas 
 funcionalidades, estão na ducumentação da api. Referenciado abaixo neste documento.
 
+
 ## ***Link da documentação da api***
 
 https://crdigital.github.io/desafio_final_gama_xp47_ecommerce_back-end/
+
 
 ## ***Link do repositório do front-end***

@@ -62,7 +62,7 @@ https://crdigital.github.io/Desafio-Final-Gama-XP47-ecommerce-back-end/
 
 ## ***Link do deploy da api***
 
-https://api-ecommerce-gamaxp47.herokuapp.com/cupom/14
+https://api-ecommerce-gamaxp47.herokuapp.com
 
 
 ## ***Link do repositório do front-end***

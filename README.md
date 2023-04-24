@@ -60,6 +60,11 @@ A parte de tetes automatizados está na branch 'testes' neste repositório.
 https://crdigital.github.io/Desafio-Final-Gama-XP47-ecommerce-back-end/
 
 
+## ***Link do deploy da api***
+
+https://api-ecommerce-gamaxp47.herokuapp.com/cupom/14
+
+
 ## ***Link do repositório do front-end***
 
 https://github.com/Gusdevr/Projeto-React-Ecomerce

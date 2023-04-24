@@ -51,6 +51,9 @@ Além de todos os requisitos para a construção dessa api, para ser consumida p
 para a criação de um crud para cupons de desconto, e também para a realização de listagem de produtos por categoria. Todos os endpoints com suas 
 funcionalidades, estão na ducumentação da api. Referenciado abaixo neste documento.
 
+## ***Teste automatizados***
+
+A parte de tetes automatizados está referenciada na branch 'testes' neste repositório.
 
 ## ***Link da documentação da api***
 

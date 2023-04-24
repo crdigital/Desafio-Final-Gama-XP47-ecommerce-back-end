@@ -7,7 +7,7 @@
 - Typescript
 - MySQL
 
-## ***Padrões de Projeto***
+## ***Arquitetura/Padrão do Projeto***
 
 - Solid/DDD
 

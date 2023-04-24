@@ -25,6 +25,12 @@ Foi aplicado também o padrão de encriptação de senhas com a dependência 'bc
 E também o padrão jwt(jasonwebtoken), que quando o usuário loga na api, é retornado um token de autenticação para poder verificar
 a autenticidade do usuário em páginas onde requer autenticação.
 
+Também é utilizada a dependência multer para aplicação de envio de arquivos, que no caso desse trabalho, foi para o envio de imagens
+referentes a parte de categorias, produtos e configuração dos dados da loja(logotipo).
+
+Além de todos os requisitos para a construção dessa api, para ser consumida por uma aplicação front-end em React, também foi aplicado os extras
+para a criação de um crud para cupons de desconto, e também para a realização de listagem de produtos por categoria. Todos os endpoints com suas 
+funcionalidades, estão na ducumentação da api. Referenciado abaixo neste documento.
 
 ## ***Diagrama do banco de dados***
 
